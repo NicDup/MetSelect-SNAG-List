@@ -16,11 +16,11 @@ SNAG list issues
 | 11 |[Temperature indication on Unit Cooler Form](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_11.md)|  Done | 05/10/2018 |
 | 12 |[Selection for electric defrost or wide fin spacing on unit coolers](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_12.md)|  Done | 08/10/2018 |
 | 13 |[Multiple Condenser Selection delivers single result](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_13.md)|  Done | 08/10/2018 |
-| 14 |[Compressor Product Selection - Rifrigerant Mixed Models displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_14.md)|  Done | 09/10/2018 |
+| 14 |[Compressor Product Selection - Refrigerant Mixed Models displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_14.md)|  Done | 09/10/2018 |
 | 15 |[Compressor Product Selection - Mixed application models displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_15.md)|  Done | 09/10/2018 |
 | 16 |[Compressor Product Selection Condensing selection](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_16.md)|  Done | 09/10/2018 |
 | 17 |[Compressor Product Selection - Coastal units on Blizzards](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_17.md)|  Done | 09/10/2018 |
 | 18 |[Compressor Product Selection - Select between compressor types](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_18.md)|  Done | 09/10/2018 |
-
-
+| 19 |[Unit Cooler Tolerance Algorithm](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_19.md)|  To be completed | 24/04/2019 |
+| 20 |[RH% to be based on delta T](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_20.md)|  To be completed | 24/04/2019 |
 
