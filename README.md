@@ -23,4 +23,7 @@ SNAG list issues
 | 18 |[Compressor Product Selection - Select between compressor types](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_18.md)|  Done | 09/10/2018 |
 | 19 |[Unit Cooler Tolerance Algorithm](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_19.md)|  To be completed | 24/04/2019 |
 | 20 |[RH% to be based on delta T](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_20.md)|  To be completed | 24/04/2019 |
+| 21 |[Unit cooler capacity under valued](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_21.md)|  To be completed | 18/07/2019 |
+| 22 |[Unit cooler selection issue for H models](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_22.md)|  To be completed | 18/07/2019 |
+| 23 |[Unit cooler altitude section](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_23.md)|  To be completed | 18/07/2019 |
 
