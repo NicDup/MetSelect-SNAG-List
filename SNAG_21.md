@@ -8,4 +8,4 @@
 **Result:** Adjust the value to get closer to the actual value 
 
 
-![alt text](Evapvalue.JPG "Selected value to be 17.94kW @ the given conditions")
+![alt text](EvapValue.JPG "Selected value to be 17.94kW @ the given conditions")
