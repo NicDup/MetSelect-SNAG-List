@@ -7,4 +7,4 @@
 
 **Result:** Hide the altitude section on the quote to prevent anyone to interact with it, causing confusion in the process 
 
-T
+![alt text](EvapAlt.JPG "Altitude button selected")
