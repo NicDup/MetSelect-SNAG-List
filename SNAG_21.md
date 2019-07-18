@@ -7,5 +7,7 @@
 
 **Result:** Adjust the value to get closer to the actual value 
 
+The required capacity for the SU 395 H is to be 17.92kW at the given conditions
 
-![alt text](EvapValue.JPG "Selected value to be 17.94kW @ the given conditions")
+
+![alt text](EvapValue.JPG "Selected values")
